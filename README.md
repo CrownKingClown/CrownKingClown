@@ -18,6 +18,7 @@ My interests include:
 ## Certifications
 
 **Offensive Security & Pentesting**
+- OSAI
 - OSCP  
 - PNPT  
 - eWPTX  
@@ -32,6 +33,7 @@ My interests include:
 
 **Container Security**
 - CCSE (Container Security Expert)
+- KCNA
 
 ## Hands-On Experience
 
